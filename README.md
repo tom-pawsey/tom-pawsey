@@ -1,6 +1,6 @@
 Hi, I'm Tom, a Data Analytics Associate at Xander Talent!
 
-I'm currently improving my coding skills, with a particular emphasis on python and SQL.
+I'm currently improving my coding skills, with a particular emphasis on Python, SQL and Tableau.
 
 I'll be creating and updating my projects on here as I go through my data journey.
 
