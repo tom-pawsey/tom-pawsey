@@ -6,7 +6,7 @@ I'll be creating and updating my projects on here as I go through my data journe
 
 I'm passionate about the environment, and enjoy watching films, playing sport, and listening to music.
 
-If you want to contact me about anything, you can reach me at tom.pawsey@xandertalent.com.
+If you want to contact me about anything, you can reach me at tom.pawsey@xandertalent.com, or message me on LinkedIn https://www.linkedin.com/in/tompawseyxander/
 
 <!---
 tom-pawsey/tom-pawsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
