@@ -1,4 +1,4 @@
-Hi, I'm Tom, a Data Analytics Associate at Xander Talent!
+Hi, I'm Tom, a Data Analytics Consultant at Xander Talent!
 
 I'm currently improving my coding and analytics skills, with a particular emphasis on Python, SQL and Tableau.
 
