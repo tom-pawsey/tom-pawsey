@@ -6,7 +6,7 @@ I'll be creating and updating my Python and SQL projects on here as I go through
 
 I'm passionate about the environment, and enjoy watching films, playing sport, and listening to music.
 
-If you want to contact me about anything, you can reach me at tom.pawsey@xandertalent.com, or message me on LinkedIn https://www.linkedin.com/in/tompawseyxander/.
+If you want to contact me about anything, you can reach me at tom.pawsey@xandertalent.com, or message me on LinkedIn https://www.linkedin.com/in/tompawsey/.
 
 <!---
 tom-pawsey/tom-pawsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
